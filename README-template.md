@@ -1,6 +1,6 @@
 # Frontend Mentor - Project tracking intro component solution
 
-This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://github.com/barbare999/Project-tracking.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Project-tracking.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Project-tracking.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Project-tracking/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Project-tracking.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Project-tracking/)
 
 ## My process
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Project Tracking](https://barbare999.github.io/Project-tracking/)
+- Website - [Project Tracking](https://BarbareUgrekhelidze.github.io/Project-tracking/)
 - Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
