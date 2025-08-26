@@ -35,4 +35,4 @@ Users should be able to:
 ## Author
 
 - Website - [Project Tracking](https://BarbareUgrekhelidze.github.io/Project-tracking/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
